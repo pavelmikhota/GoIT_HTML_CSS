@@ -1,0 +1,39 @@
+
+body{
+	background-color: lightgrey;
+}
+
+#border{
+	width: 700px;
+	height: 100%;
+	margin: 0 auto;
+	background-color: white;
+	box-shadow: 0 0 7px #666;
+}
+
+p{
+	text-align: center;
+}
+
+#name{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 18pt;
+}
+
+.image{
+	display: block;
+	margin: 0 auto;
+}
+
+#photo{
+	width: 200px;
+	height: 200px;
+	border-radius: 400px;
+    box-shadow: 0 0 7px #666; 
+}
+
+hr{
+	width: 80%;
+}
+
